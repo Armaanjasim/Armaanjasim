@@ -36,6 +36,6 @@
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
 ![Microsoft One Drive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft%20OneDrive&logoColor=white)
 
-## Vistitor Counter
+### Vistitor Counter
 ![Visitor Count](https://profile-counter.glitch.me/armaanjasim/count.svg)
 
