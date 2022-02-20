@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋 & Welcome To The World Of DevOps!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/armaan-alam-93784219b/)
+
 - 🔭 I’m currently working on Ansible
 - 🌱 I’m currently learning IaC
 - 👯 I’m looking to collaborate on ...
