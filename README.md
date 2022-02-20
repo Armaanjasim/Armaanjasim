@@ -2,9 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/armaan-alam-93784219b/)
 
-### Currently Training IaC & Microservices
+### Computer science graduate from Queen Mary University of London. Currently learning Iac & Microservices
 
-#### **Technical Skills & Experience**
+### **Technical Skills & Experience:**
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
